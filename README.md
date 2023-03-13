@@ -2,7 +2,15 @@
 
 
 
-Our work is based on Stargan v2-VC (https://github.com/yl4579/StarGANv2-VC).
+Our work is based on Stargan v2-VC2 (https://github.com/yl4579/StarGANv2-VC). 
+
+1. Pleaze install Stargan v2-VC2 packages.
+
+2. Run Pre-processing
+
+3. add train_AAM_WV.py, trainer_AAM_WV.py, model_AAM_WV.py and meldataset_aug in your space.
+
+4. Rub train_AAM_WV.py
 
 Objective evaluation is avaluable at : https://github.com/tzuhsien/Voice-conversion-evaluation
 
