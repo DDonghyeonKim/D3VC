@@ -8,7 +8,7 @@ Our work is based on Stargan v2-VC2 (https://github.com/yl4579/StarGANv2-VC).
 
 2. Run Pre-processing
 
-3. add train_AAM_WV.py, trainer_AAM_WV.py, model_AAM_WV.py and meldataset_aug in your space.
+3. add train_AAM_WV.py, trainer_AAM_WV.py, model_AAM_WV.py and meldataset_aug in your workspace.
 
 4. Rub train_AAM_WV.py
 
